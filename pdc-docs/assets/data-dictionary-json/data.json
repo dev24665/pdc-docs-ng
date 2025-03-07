@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Case",
+      "description": "The collection of all data related to a specific subject in the context of a specific project."
+    },
+    {
+      "name": "Program",
+      "description": "A broad framework of goals to be achieved."
+    },
+    {
+      "name": "Project",
+      "description": "Any specifically defined piece of work that is undertaken or attempted to meet a single requirement."
+    },
+    {
+      "name": "Study",
+      "description": "A detailed examination, analysis, or critical inspection of a subject designed to discover facts about it."
+    }
+]
