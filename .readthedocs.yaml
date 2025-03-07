@@ -6,4 +6,4 @@ build:
     python: "3.10"
   commands: 
       - mkdir --parents _readthedocs/html/
-      - cp --recursive pdc_docs/* _readthedocs/html/
+      - cp --recursive pdc-docs/* _readthedocs/html/
